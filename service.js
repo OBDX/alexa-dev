@@ -20,7 +20,7 @@ module.exports = new function() {
   var metadata = {
     allowConfigUpdate: true, //set to false to turn off REST endpoint of allowing update of metadata
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
-    amzn_appId: "amzn1.ask.skill.69570a9b-5bb0-4fbc-bbe8-314b9d1f6846",
+    amzn_appId: "amzn1.ask.skill.b60ef2bb-74a0-4b26-b45c-a68b185a54cf",
     channelSecretKey: 'm7n9xhMceuTKgtp4rpz3bMxSNWLcEPPe',
     //replace channel URL with your own channel
     channelUrl: 'https://oda-ae2cca311e58405abe8c4df4131b850f-da2.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/e1177ecd-d8da-4992-9e11-d7107f2e062f'
